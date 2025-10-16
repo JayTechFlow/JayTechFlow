@@ -1,223 +1,109 @@
 <!--
 JayTechFlow | The Automated Flow Architect 🚀
-Enhanced Professional README: Centered on Pipeline & Resilience
+Enhanced Professional README – Centered on Pipeline & Resilience
 -->
 
 <div align="center">
-<picture>
-<!-- Banner will be the custom image Jay provided -->
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/JayTechFlow/JayTechFlow/blob/main/banner.png">
-<img src="https://github.com/JayTechFlow/JayTechFlow/blob/main/banner.png" alt="Jay Kumar - Logical Architect | DevOps & Cloud Systems" style="width: 100%; max-width: 900px; border-radius: 8px;" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayTechFlow/JayTechFlow/main/banner.png">
+    <img src="https://raw.githubusercontent.com/JayTechFlow/JayTechFlow/main/banner.png" alt="Jay Kumar – DevOps & Cloud Engineer Banner" style="width:100%; max-width:900px; border-radius:10px;" />
+  </picture>
 </div>
 
 <h1 align="center">
-<img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1531843058/4268/blob-code.gif%3F1531843058" width="30" />
-JAY KUMAR: Automating the Cloud Flow
-<img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1531843058/4268/blob-code.gif%3F1531843058" width="30" />
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="32" />
+  JAY KUMAR: Automating the Cloud Flow
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/cloud_2601-fe0f.gif" width="32" />
 </h1>
 
-💡 Core Mission: Engineer for Resilience
-
-My mandate is simple: Reduce toil and maximize system uptime. As an aspiring DevOps Engineer and MCA Student at Central University of Karnataka, I focus on building pipelines that are not just fast, but inherently stable and secure.
-
-My expertise is in translating business needs into Infrastructure as Code (IaC), ensuring every deployment is predictable and reversible.
-
-🛠️ The DevOps Toolchain (Skill Matrix)
-
-I organize my technical skills into three buckets based on proficiency:
-
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,aws,docker,kubernetes,terraform,jenkins,githubactions,python,bash,git,vscode,html,css" alt="Skill Icons: Linux, AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Python, Bash, Git, VSCode, HTML, CSS" />
-</a>
+  <strong>💡 Core Mission:</strong> Engineer for Resilience – Build pipelines that are fast, secure, and self-healing.  
 </p>
 
-☁️ Cloud Native Competencies:
+---
 
-Competency
+### 👨‍💻 About Me
+I’m **Jay Kumar**, an **MCA student at Central University of Karnataka **, passionate about **DevOps, Cloud Computing, and Automation**.  
+My focus: *translating business logic into Infrastructure-as-Code for reliable, scalable systems.*  
 
-Core Tools (Fluent)
+🌩️ *"Automate. Build. Monitor. Scale."*  
+☁️ I learn from both servers and sunsets — blending **tech + travel** to stay curious and inspired.
 
-Developing (Hands-On)
+---
 
-Exploring (Conceptual)
-
-I.a.C. / Config
-
-Terraform, Bash, Git
-
-Ansible, CloudFormation
-
-Pulumi
-
-Orchestration
-
-Docker, Docker Compose
-
-Kubernetes (K8s), Helm
-
-Service Mesh (Istio/Linkerd)
-
-CI/CD
-
-GitHub Actions, Jenkins
-
-ArgoCD, Azure Pipelines
-
-Spinnaker
-
-Cloud
-
-AWS EC2, S3, IAM, VPC
-
-AWS RDS, Lambda
-
-GCP/Azure Core Services
-
-Monitoring
-
-Basic Shell Scripting
-
-Prometheus, Grafana
-
-Datadog
-
-🎯 Current Focus: The Project Pipeline
-
-My learning is project-driven, focusing on complex architecture.
-
-Status
-
-Goal
-
-Milestone
-
-Dependencies
-
-In Progress
-
-AWS Certified Cloud Practitioner
-
-Exam Ready (Target: Next Month)
-
-AWS Learning Path Link
-
-Project Build
-
-End-to-End Automated CI/CD Pipeline
-
-Full project integrating Terraform, Jenkins, and Docker for a public service.
-
-Jenkins, Docker, Terraform
-
-Skill Focus
-
-Master Kubernetes Service Networking
-
-Deploy multi-tier app using Ingress Controller and Network Policies.
-
-K8s, YAML, Networking
-
-Ongoing
-
-Python Automation & Tooling
-
-Develop custom tooling for infrastructure health checks and reporting (e.g., using Boto3).
-
-Python, AWS SDK
-
-📂 Resilience Blueprints (Featured Projects)
-
-These projects showcase my ability to create resilient and automated systems.
-
-Project Blueprint
-
-Key DevOps Skill
-
-Technologies
-
-Repository Link
-
-[K8s Microservice Deployment]
-
-Container Orchestration & H/A
-
-Kubernetes, YAML, Docker
-
-Link Here
-
-[Terraform AWS VPC Setup]
-
-Infrastructure as Code (I.a.C.)
-
-Terraform, AWS VPC, Subnets
-
-Link Here
-
-[Jenkins CI/CD for Web App]
-
-Continuous Integration & Delivery
-
-Jenkins, Docker, GitHub Actions
-
-Link Here
-
-[Linux Server Hardening Script]
-
-System Security & Administration
-
-Bash, Linux, FirewallD
-
-Link Here
-
-[Python Cloud Backup Tool]
-
-Automation & Resilience
-
-Python, AWS S3, Boto3
-
-Link Here
-
-✈️ The TravelOps Ethos
-
-🌍 I’m passionate about traveling and exploring how technology connects people across borders. I find parallels between robust systems and resilient travel plans.
-
-📸 I often share my journey combining tech, productivity, and adventure — learning from both servers and sunsets ☁️🏔️.
-
-💬 Connect & Build Together
-
-I’m always open to discussing new DevOps projects, IaC best practices, or networking fundamentals. Let's collaborate!
-
+### 🛠️ Tech Stack & Tools
 <p align="center">
-<a href="https://www.linkedin.com/in/jaytechflow" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile" />
-</a>
-<a href="mailto:jaytechflow@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Address" />
-</a>
-<a href="https://github.com/JayTechFlow" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Profile" />
-</a>
-<a href="https://www.instagram.com/travelopsjay" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-</a>
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,githubactions,python,bash,git,vscode,html,css" alt="Skill Icons" />
 </p>
 
-⚡ Real-Time Metrics
+| Category | Fluent | Hands-On | Exploring |
+|-----------|---------|-----------|------------|
+| **IaC / Config** | Terraform, Bash, Git | Ansible, CloudFormation | Pulumi |
+| **Orchestration** | Docker, Compose | Kubernetes, Helm | Istio, Linkerd |
+| **CI/CD** | GitHub Actions, Jenkins | ArgoCD | Spinnaker |
+| **Cloud** | AWS EC2, S3, IAM, VPC | RDS, Lambda | GCP, Azure |
+| **Monitoring** | Shell Scripting | Prometheus, Grafana | Datadog |
 
+---
+
+### 🎯 Current Focus
+📘 **Learning Path**
+- 🧩 Building an end-to-end **CI/CD pipeline** with Terraform, Jenkins & Docker  
+- ☁️ Preparing for **AWS Cloud Practitioner Certification**  
+- 🧠 Exploring **Kubernetes Networking** & **Service Mesh**  
+- ⚙️ Automating health checks using **Python (Boto3)**  
+
+---
+
+### 📂 Featured Projects
+| Project | Focus Area | Tech Stack | Repo |
+|----------|-------------|------------|------|
+| 🔹 **K8s Microservice Deployment** | Container Orchestration | Kubernetes, YAML, Docker | [View](#) |
+| 🔹 **Terraform AWS VPC Setup** | Infrastructure as Code | Terraform, AWS | [View](#) |
+| 🔹 **Jenkins CI/CD for Web App** | Continuous Delivery | Jenkins, Docker | [View](#) |
+| 🔹 **Linux Server Hardening** | Security & SysAdmin | Bash, Linux | [View](#) |
+| 🔹 **Python Cloud Backup Tool** | Automation & Resilience | Python, AWS S3 | [View](#) |
+
+---
+
+### ✈️ TravelOps Ethos
+🌍 I see DevOps like travel — both demand **planning, adaptability, and exploration**.  
+📸 Sharing my adventures under **#TravelOps** — learning resilience from both systems and journeys.
+
+---
+
+### 💬 Let’s Connect
 <p align="center">
-<!-- Corrected URL structure for reliability -->
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJayTechFlow%26show_icons%3Dtrue%26theme%3Dvue" alt="Jay Kumar GitHub Stats" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DJayTechFlow%26theme%3Dvue" alt="Jay Kumar GitHub Streak" />
+  <a href="https://www.linkedin.com/in/jaytechflow" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jaytechflow@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JayTechFlow" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/travelopsjay" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ GitHub Insights
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JayTechFlow&show_icons=true&theme=tokyonight" alt="Jay's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JayTechFlow&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-<!-- Using a more neutral background color for better compatibility -->
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DJayTechFlow%26bg_color%3Dffffff00%26color%3D41B883%26line%3D41B883%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue%26theme%3Dgithub-dark" alt="Jay Kumar Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayTechFlow&bg_color=0d1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&hide_border=true" alt="Jay Kumar Activity Graph" />
 </p>
 
-“Automate. Build. Monitor. Scale.”
+---
 
-Thanks for visiting my profile! 👨‍💻
-⭐️ Your star is a deployment success! Follow for more CI/CD content.
+<h3 align="center">⚙️ Automate • Build • Monitor • Scale ⚙️</h3>
+
+<p align="center">
+  <em>⭐️ Your star is a successful deployment! Follow for more DevOps and Cloud insights.</em>
+</p>
