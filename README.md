@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/JayTechFlow">
-    <img src="https://github.com/JayTechFlow/JayTechFlow/blob/main/benner2.png" alt="Loading..." />
+    <img src="https://github.com/JayTechFlow/JayTechFlow/blob/main/banner.png" alt="Loading..." />
   </a>
 </p>
 
