@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/JayTechFlow">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+progress;Cloud+and+Automation+Learner;Building+Systems+and+Dreams+🌍" alt="Typing SVG" />
+    <img src="https://github.com/JayTechFlow/JayTechFlow/blob/main/benner2.png" alt="Loading..." />
   </a>
 </p>
 
